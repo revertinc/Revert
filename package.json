@@ -7,7 +7,7 @@
     ],
     "devDependencies": {
         "concurrently": "^8.2.1",
-        "fern-api": "0.16.22",
+        "fern-api": "0.53.17",
         "husky": "^8.0.3",
         "lint-staged": "^14.0.1",
         "prettier": "3.3.2",
